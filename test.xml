@@ -1,1 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet type="text/xsl" href="uitslag.xsl" version="1.0"?>
+<Uitslag anpNr="149" type="Gemeente">
+	<Status>Eindstand</Status>
+	<PublicatieDatumTijd>20150330T145804+0200</PublicatieDatumTijd>
+	<Title>
+		<Prefix>Gemeente</Prefix>
+		<Naam>De Bilt</Naam>
+		<GemeenteNaam>De Bilt</GemeenteNaam>
+		<Postfix></Postfix>
+	</Title>
+	<Naam>Gemeente De Bilt</Naam>
+	<CBS>0310</CBS>
+	<Provincie>UT</Provincie>
+	<ProvincieNaam>Utrecht</ProvincieNaam>
+	<Kieskring>Utrecht</Kieskring>
+	<AantalInwoners>42170</AantalInwoners>
+	<Stedelijkheid>3</Stedelijkheid>
+	<Groep type="Totaal">
+		<KorteNaam>Kiesger.</KorteNaam>
+		<Naam>Kiesgerechtigden</Naam>
+		<Verkiezing code="PS15">
+			<Stemmen>32506</Stemmen>
+		</Verkiezing>
+		<Verkiezing code="PS11">
+			<Stemmen>32270</Stemmen>
+		</Verkiezing>
+	</Groep>
+	<Groep type="Totaal">
+		<KorteNaam>Opkomst</KorteNaam>
+		<Naam>Opkomst</Naam>
+		<Verkiezing code="PS15">
+			<Stemmen>19887</Stemmen>
+			<Perc>61,2</Perc>
+			<Zetels></Zetels>
+		</Verkiezing>
+		<Verkiezing code="PS11">
+			<Stemmen>22764</Stemmen>
+			<Perc>70,5</Perc>
+			<Zetels></Zetels>
+		</Verkiezing>
+	</Groep>
+	<Groep type="Totaal">
+		<KorteNaam>Ongeldig</KorteNaam>
+		<Naam>Blanco/ongeldige stemmen</Naam>
+		<Verkiezing code="PS15">
+			<Stemmen>84</Stemmen>
+			<Perc>0,4</Perc>
+		</Verkiezing>
+		<Verkiezing code="PS11">
+			<Stemmen>62</Stemmen>
+			<Perc>0,3</Perc>
+		</Verkiezing>
+	</Groep>
+	
+<Groep type="Partij"><KorteNaam>VVD</KorteNaam><Naam>VVD</Naam><Verkiezing code="PS15"><Stemmen>4167</Stemmen><Perc>21,0</Perc></Verkiezing><Verkiezing code="PS11"><Stemmen>6028</Stemmen><Perc>26,5</Perc></Verkiezing></Groep>
+<Groep type="Partij"><KorteNaam>PVDA</KorteNaam><Naam>PVDA</Naam><Verkiezing code="PS15"><Stemmen>1827</Stemmen><Perc>9,2</Perc></Verkiezing><Verkiezing code="PS11"><Stemmen>2836</Stemmen><Perc>12,5</Perc></Verkiezing></Groep>
+<Groep type="Partij"><KorteNaam>CDA</KorteNaam><Naam>CDA</Naam><Verkiezing code="PS15"><Stemmen>2281</Stemmen><Perc>11,5</Perc></Verkiezing><Verkiezing code="PS11"><Stemmen>2518</Stemmen><Perc>11,1</Perc></Verkiezing></Groep>
+<Groep type="Partij"><KorteNaam>D66</KorteNaam><Naam>D66</Naam><Verkiezing code="PS15"><Stemmen>3629</Stemmen><Perc>18,2</Perc></Verkiezing><Verkiezing code="PS11"><Stemmen>2570</Stemmen><Perc>11,3</Perc></Verkiezing></Groep>
+<Groep type="Partij"><KorteNaam>PVV</KorteNaam><Naam>PVV</Naam><Verkiezing code="PS15"><Stemmen>1504</Stemmen><Perc>7,6</Perc></Verkiezing><Verkiezing code="PS11"><Stemmen>2140</Stemmen><Perc>9,4</Perc></Verkiezing></Groep>
+<Groep type="Partij"><KorteNaam>GL</KorteNaam><Naam>GROENLINKS</Naam><Verkiezing code="PS15"><Stemmen>1564</Stemmen><Perc>7,9</Perc></Verkiezing><Verkiezing code="PS11"><Stemmen>1955</Stemmen><Perc>8,6</Perc></Verkiezing></Groep>
+<Groep type="Partij"><KorteNaam>SP</KorteNaam><Naam>SP</Naam><Verkiezing code="PS15"><Stemmen>1732</Stemmen><Perc>8,7</Perc></Verkiezing><Verkiezing code="PS11"><Stemmen>2097</Stemmen><Perc>9,2</Perc></Verkiezing></Groep>
+<Groep type="Partij"><KorteNaam>CU</KorteNaam><Naam>ChristenUnie</Naam><Verkiezing code="PS15"><Stemmen>706</Stemmen><Perc>3,6</Perc></Verkiezing><Verkiezing code="PS11"><Stemmen>691</Stemmen><Perc>3,0</Perc></Verkiezing></Groep>
+<Groep type="Partij"><KorteNaam>SGP</KorteNaam><Naam>SGP</Naam><Verkiezing code="PS15"><Stemmen>889</Stemmen><Perc>4,5</Perc></Verkiezing><Verkiezing code="PS11"><Stemmen>776</Stemmen><Perc>3,4</Perc></Verkiezing></Groep>
+<Groep type="Partij"><KorteNaam>50PLUS</KorteNaam><Naam>50PLUS</Naam><Verkiezing code="PS15"><Stemmen>472</Stemmen><Perc>2,4</Perc></Verkiezing><Verkiezing code="PS11"><Stemmen>490</Stemmen><Perc>2,2</Perc></Verkiezing></Groep>
+<Groep type="Partij"><KorteNaam>PVDD</KorteNaam><Naam>Partij voor de Dieren</Naam><Verkiezing code="PS15"><Stemmen>864</Stemmen><Perc>4,3</Perc></Verkiezing><Verkiezing code="PS11"><Stemmen>503</Stemmen><Perc>2,2</Perc></Verkiezing></Groep>
+<Groep type="Partij"><KorteNaam>VRIJPAR</KorteNaam><Naam>Vrijzinnige Partij</Naam><Verkiezing code="PS15"><Stemmen>16</Stemmen><Perc>0,1</Perc></Verkiezing><Verkiezing code="PS11"><Stemmen>0</Stemmen><Perc>0,0</Perc></Verkiezing></Groep>
+<Groep type="Partij"><KorteNaam>PROVBELU</KorteNaam><Naam>Provincie@Inwonersbelangen</Naam><Verkiezing code="PS15"><Stemmen>94</Stemmen><Perc>0,5</Perc></Verkiezing><Verkiezing code="PS11"><Stemmen>0</Stemmen><Perc>0,0</Perc></Verkiezing></Groep>
+<Groep type="Partij"><KorteNaam>LP</KorteNaam><Naam>Libertarische Partij</Naam><Verkiezing code="PS15"><Stemmen>23</Stemmen><Perc>0,1</Perc></Verkiezing><Verkiezing code="PS11"><Stemmen>0</Stemmen><Perc>0,0</Perc></Verkiezing></Groep>
+<Groep type="Partij"><KorteNaam>JEZUSLFT</KorteNaam><Naam>JEZUS LEEFT</Naam><Verkiezing code="PS15"><Stemmen>35</Stemmen><Perc>0,2</Perc></Verkiezing><Verkiezing code="PS11"><Stemmen>0</Stemmen><Perc>0,0</Perc></Verkiezing></Groep>
+<Groep type="Partij"><KorteNaam>OVERIG</KorteNaam><Naam>Overige PS2011</Naam><Verkiezing code="PS15"><Stemmen>0</Stemmen><Perc>0,0</Perc></Verkiezing><Verkiezing code="PS11"><Stemmen>98</Stemmen><Perc>0,4</Perc></Verkiezing></Groep>
+</Uitslag>
+
 
